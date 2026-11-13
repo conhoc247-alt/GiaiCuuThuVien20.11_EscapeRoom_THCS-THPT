@@ -1,0 +1,42 @@
+{
+  "title": "THƯA THẦY",
+  "author": "Hữu Thỉnh",
+  "stanzas": [
+    {
+      "lines": [
+        "Trước ngọn thước là con đường xa tắp",
+        "Bông hoa nào cũng có vẻ bình yên"
+      ]
+    },
+    {
+      "lines": [
+        "Và em tin, sau cay đắng vẫn tin",
+        "Những ngọn suối không làm đau bóng lá."
+      ]
+    },
+    {
+      "lines": [
+        "Đã vấp ngã, thưa thầy, nhiều vấp ngã",
+        "Không ở đâu xa ở giữa con người"
+      ]
+    },
+    {
+      "lines": [
+        "Em bước đi hoảng hốt nghĩ về thầy",
+        "Đời nhanh quá vui buồn chưa kịp cũ."
+      ]
+    },
+    {
+      "lines": [
+        "Đời nhanh quá tóc thầy khói phủ",
+        "Giáo án chông chênh bão giật đời thường"
+      ]
+    },
+    {
+      "lines": [
+        "Cây trước cửa gió ở ngoài tay với",
+        "Thầy yêu trò vật vã với văn chương."
+      ]
+    }
+  ]
+}
